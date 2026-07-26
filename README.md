@@ -52,7 +52,6 @@ Tool-Wear-And-Fault-Prediction-System/
 ├── app.py
 ├── train_model.py
 ├── requirements.txt
-├── runtime.txt
 ├── README.md
 │
 ├── data/
@@ -74,7 +73,7 @@ Tool-Wear-And-Fault-Prediction-System/
 
 Explore the complete model development process, including data preprocessing, model training, and evaluation.
 
-Click [here](https://colab.research.google.com/drive/1W4N1JJqyVvQLtxACOT7lNf8fu1S0GQJs?usp=sharing) to open the notebook.
+Click [here](notebooks/Tool_Wear_And_Fault_Prediction.ipynb) to open the notebook.
 
 ---
 
@@ -82,7 +81,7 @@ Click [here](https://colab.research.google.com/drive/1W4N1JJqyVvQLtxACOT7lNf8fu1
 
 You can access the deployed application here:
 
-https://your-streamlit-app.streamlit.app/
+https://tool-wear-and-fault-prediction-system.onrender.com/
 
 ---
 
@@ -162,7 +161,7 @@ pip install joblib==1.3.2
 Clone the repository
 
 ```bash
-git clone https://github.com/JayasaiKarthik-G/Tool-Wear-and-Fault-Prediction-System.git
+git clone https://github.com/JayasaiKarthik-G/Tool-Wear-And-Fault-Prediction-System.git
 ```
 
 ---
@@ -488,7 +487,7 @@ preventing incorrect predictions.
 # 📝 Requirements
 
 ```
-Python >= 3.11
+Python >= 3.11.9
 
 Streamlit == 1.28.0
 
@@ -512,7 +511,7 @@ Java Full Stack Developer
 
 - 🌐 Portfolio: https://jayasai-karthik.vercel.app
 - 💼 LinkedIn: https://www.linkedin.com/in/gadekari-jayasai-karthik/
-- 💻 GitHub: https://github.com/GadekariJayasaiKarthik
+- 💻 GitHub: https://github.com/JayasaiKarthik-G
 
 ---
 
