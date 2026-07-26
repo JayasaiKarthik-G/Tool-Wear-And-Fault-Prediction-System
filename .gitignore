@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+my_app_env/
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Environment Variables
+.env
+
+# Python Packaging
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Model Files (Ignore if too large or private)
+*.pkl
+*.pickle
+
+# Temporary Files
+*.tmp
+*.temp
