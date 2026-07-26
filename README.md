@@ -47,16 +47,26 @@ The model predicts whether a machine is likely to fail based on machine operatin
 # 📂 Project Structure
 
 ```
-Tool-Wear-and-Fault-Prediction-System/
+Tool-Wear-And-Fault-Prediction-System/
 │
 ├── app.py
-├── model.joblib
-├── label_encoder.joblib
-├── type_encoder.joblib
-├── predictive_maintenance.csv
+├── train_model.py
 ├── requirements.txt
-├── Machine_Predictive_Maintenance_Classification.ipynb
-└── README.md
+├── runtime.txt
+├── README.md
+│
+├── data/
+│   └── predictive_maintenance.csv
+│
+├── models/
+│   ├── model.joblib
+│   ├── type_encoder.joblib
+│   └── label_encoder.joblib
+│
+├── notebooks/
+│   └── Tool_Wear_And_Fault_Prediction.ipynb
+│
+└── .gitignore
 ```
 ---
 
